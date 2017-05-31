@@ -9,7 +9,7 @@ MVC Architecture
 
 git clone https://github.com/Silot/Farmerama_
 
-install:
+## INSTALL:
 
 1) JavaEE - netbeans - maven - JUnit
 2) Apache Tomcat
@@ -18,20 +18,20 @@ install:
 
 ----------------
 
-CHAT:
+## CHAT:
 	inside chatPage.jsp file replace the ip with your public ip  ( google : whats my ip)
 otherwise the node.js server will not work
 
 --------------------
 
-PORTS:
+## PORTS:
 	Tomcat -> 9090
 	socket.io -> 8080
 But you open your localhost on port 9090
 
 --------------------
 
-BUILD SCRIPT:
+## BUILD SCRIPT:
 	You can use Jenkins to make a build script
 
 --------------------
