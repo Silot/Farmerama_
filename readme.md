@@ -36,5 +36,8 @@ BUILD SCRIPT:
 
 --------------------
 
+build in collaboration with two other programmers
+
+------------------
 Have Fun !
 
