@@ -14,7 +14,7 @@ install:
 3) npm - socket.io - mongoDB- nodeJS
 4) get a google maps api key
 
-===================
+----------------
 
 CHAT:
 	inside chatPage.jsp file replace the ip with your public ip  ( google : whats my ip)
