@@ -19,7 +19,7 @@ git clone https://github.com/Silot/Farmerama_
 ----------------
 
 ## CHAT:
-	inside chatPage.jsp file replace the ip with your public ip  ( google : whats my ip)
+	inside chatPage.jsp file replace EVERY ip with your public ip  ( google : whats my ip)
 otherwise the node.js server will not work
 
 --------------------
