@@ -1,6 +1,8 @@
 Follow Allong
 --------------
 
+inspired by Facebook and SnapChat
+
 fully functional javaEE social nework supporting profiles, public chat(custom js servers), dedicated chat, posts, games, media shares, image procession with JS filters
 
 MVC Architecture 
